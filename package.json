@@ -1,0 +1,31 @@
+{
+  "name": "react-native-pulltorefresh-listview",
+  "version": "0.0.1",
+  "description": "react0-native pulltorefresh listview ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaxchow/react-native-pulltorefresh-listview.git"
+  },
+  "keywords": [
+    "react-native",
+    "listview",
+    "pulltorefresh"
+  ],
+  "author": "jaxchow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxchow/react-native-pulltorefresh-listview/issues"
+  },
+  "homepage": "https://github.com/jaxchow/react-native-pulltorefresh-listview#readme",
+  "dependencies": {
+    "is-promise": "^2.1.0",
+    "react-native-rebound-scrollview": "0.0.1"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.12.0"
+  }
+}
